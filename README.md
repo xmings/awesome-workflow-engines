@@ -1,6 +1,16 @@
 # awesome-workflow-engines
 A curated list of awesome open source workflow engines
 
+## Catch my eye
+* [Prefect](https://github.com/PrefectHQ/prefect) [![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect.svg)](https://github.com/PrefectHQ/prefect)  - Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine
+* [Piper](https://github.com/creactiviti/piper) [![Stars](https://img.shields.io/github/stars/creactiviti/piper.svg)](https://github.com/creactiviti/piper)  - A distributed Java workflow engine designed to be dead simple.
+* [N8n-io](https://n8n.io) [![Stars](https://img.shields.io/github/stars/n8n-io/n8n.svg)](https://github.com/n8n-io/n8n) - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
+* [Cromwell](https://github.com/broadinstitute/cromwell) [![Stars](https://img.shields.io/github/stars/broadinstitute/cromwell.svg)](https://github.com/broadinstitute/cromwell) - Workflow engine written in Scala and designed for simplicity and scalability. Executes workflows written in [WDL](https://github.com/openwdl/wdl) or [CWL](https://www.commonwl.org/).
+* [DigDag](https://www.digdag.io) [![Stars](https://img.shields.io/github/stars/treasure-data/digdag.svg)](https://github.com/treasure-data/digdag) - Digdag is a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks.
+* [Popper](https://github.com/systemslab/popper) [![Stars](https://img.shields.io/github/stars/systemslab/popper.svg)](https://github.com/systemslab/popper)  - Lightweight, YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.
+* [Copper](https://github.com/copper-engine/copper-engine) [![Stars](https://img.shields.io/github/stars/copper-engine/copper-engine.svg)](https://github.com/copper-engine/copper-engine) - A high performance Java workflow engine.
+* [Imixs-Workflow](https://www.imixs.org) [![Stars](https://img.shields.io/github/stars/imixs/imixs-workflow.svg)](https://github.com/imixs/imixs-workflow) - A powerful human-centric Workflow Engine based on the BPMN 2.0 standard.
+
 ## Full fledged product
 * [Airflow](https://github.com/apache/incubator-airflow) [![Stars](https://img.shields.io/github/stars/apache/incubator-airflow.svg)](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
 * [Argo](https://github.com/argoproj/argo) [![Stars](https://img.shields.io/github/stars/argoproj/argo.svg)](https://github.com/argoproj/argo) - Open source container-native workflow engine for getting work done on Kubernetes
